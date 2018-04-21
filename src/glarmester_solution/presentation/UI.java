@@ -1,6 +1,7 @@
-package glarmester_solution.presentation;
+package presentation;
 
-import glarmester_solution.logic.FrameType;
+
+import logic.FrameType;
 
 /**
  *

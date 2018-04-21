@@ -1,7 +1,8 @@
-package glarmester_solution.presentation;
+package presentation;
 
-import glarmester_solution.logic.FrameType;
-import static glarmester_solution.logic.FrameType.*;
+
+import logic.FrameType;
+
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Toolkit;
@@ -16,7 +17,10 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
-import static glarmester_solution.logic.Controller.DEBUG;
+import static logic.Controller.DEBUG;
+import static logic.FrameType.Lavish;
+import static logic.FrameType.Ornate;
+import static logic.FrameType.Simple;
 
 /**
  *

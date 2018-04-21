@@ -1,6 +1,5 @@
-package glarmester_solution;
 
-import glarmester_solution.logic.Controller;
+import logic.Controller;
 
 /**
  *

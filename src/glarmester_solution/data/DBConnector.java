@@ -1,4 +1,4 @@
-package glarmester_solution.data;
+package data;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -11,7 +11,7 @@ public class DBConnector {
 	private static final String IP	     = "localhost";
 	private static final String PORT     = "3306";
 	public  static final String DATABASE = "glarmester";
-	private static final String USERNAME = "BigBoss"; 
+	private static final String USERNAME = "root";
 	private static final String PASSWORD = "1234";	     	
 	
 	public DBConnector() throws Exception {

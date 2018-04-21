@@ -1,9 +1,12 @@
-package glarmester_solution.presentation;
+package presentation;
 
-import glarmester_solution.logic.FrameType;
-import glarmester_solution.presentation.UI;
+import logic.FrameType;
+
 import java.util.Scanner;
-import static glarmester_solution.logic.FrameType.*;
+
+import static logic.FrameType.Lavish;
+import static logic.FrameType.Ornate;
+import static logic.FrameType.Simple;
 
 /**
  *

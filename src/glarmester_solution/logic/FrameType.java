@@ -1,4 +1,4 @@
-package glarmester_solution.logic;
+package logic;
 
 /**
  *

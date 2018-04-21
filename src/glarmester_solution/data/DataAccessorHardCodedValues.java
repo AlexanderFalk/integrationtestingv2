@@ -1,6 +1,6 @@
-package glarmester_solution.data;
+package data;
 
-import glarmester_solution.logic.FrameType;
+import logic.FrameType;
 
 /**
  *

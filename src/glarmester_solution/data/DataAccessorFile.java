@@ -1,9 +1,10 @@
-package glarmester_solution.data;
+package data;
 
-import glarmester_solution.logic.FrameType;
+import logic.FrameType;
+
 import java.io.FileReader;
 import java.io.IOException;
-import static glarmester_solution.logic.Controller.DEBUG;
+import static logic.Controller.DEBUG;
 import java.io.BufferedReader;
 
 public class DataAccessorFile implements DataAccessor {
