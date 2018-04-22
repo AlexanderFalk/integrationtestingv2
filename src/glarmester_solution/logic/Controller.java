@@ -24,7 +24,7 @@ public class Controller {
         //System.out.println("Width = " + width);
         FrameType type = ui.getFrameType();
         //System.out.println("Type = " + type.toString());
-        
+        System.out.println(height);
         // Calculate price
         double price = logic.calculatePrice(height, width, type, data);
         

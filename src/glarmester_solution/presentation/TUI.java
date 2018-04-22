@@ -22,6 +22,7 @@ public class TUI implements UI {
         Ornate.toString(), 
         Lavish.toString()
     };
+
     private Scanner scanner = new Scanner(System.in);
 
     @Override
@@ -84,5 +85,5 @@ public class TUI implements UI {
             return -1;
         }
     }
-    
+
 }
